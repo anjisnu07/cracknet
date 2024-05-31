@@ -1,5 +1,5 @@
 # CrackNet
-An optimized TFLite network for detecting cracks in concrete structures.
+A drone based optimized TFLite network for detecting cracks in concrete structures.
 
 ## Results
 
